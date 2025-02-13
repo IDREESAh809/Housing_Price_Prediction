@@ -2,7 +2,7 @@
 A **machine learning project** that predicts house prices based on various features using **XGBoost, Linear Regression, and other models**.
 ## 📂 Project Structure
 Housing_Price_Prediction/ ├── data/ # Contains datasets │ ├── raw/ # Original dataset │ ├── processed/ # Cleaned & feature-engineered dataset ├── notebooks/ # Jupyter Notebooks │
-├── 01_data_preprocessing.ipynb │ ├── 02_feature_engineering.ipynb │ ├── 03_model_training.ipynb ├── models/ # Trained models │ ├── best_model.pkl # Saved XGBoost model
+├── 01_data_exploration.ipynb │ ├── 02_data_preprocessing.ipynb │ ├── 03_feature_engineering.ipynb │ ├── 04_model_training.ipynb ├── models/ # Trained models │ ├── best_model.pkl # Saved XGBoost model
 ├── README.md # Project Overview ├── requirements.txt # Dependencies ├── .gitignore # Ignore unnecessary files
 
 ## 📊 Dataset
